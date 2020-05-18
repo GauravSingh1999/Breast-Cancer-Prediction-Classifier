@@ -8,3 +8,5 @@ aspirate of a breast mass, and they describe characteristics of the cell nuclei 
 <h5>Count in the dataset whether the tumor in a given patient was recurrent (R) or non-recurrent (N).<h5>
 <img src ="img/Count(N&R).png" height="300" width="330">
 
+# The classifier model is based on Support Vector Machine Learning Model.
+
