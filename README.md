@@ -6,6 +6,7 @@ radius, texture, perimeter, area, smoothness, compactness, concavity, concave po
 fractal dimension. All these features have been computed from a digitized image of a fine needle
 aspirate of a breast mass, and they describe characteristics of the cell nuclei present in the image.</h4>
 <h5>Count in the dataset whether the tumor in a given patient was recurrent (R) or non-recurrent (N).<h5>
-<img src ="img/Count(N&R).png" height="300" width="330">
+<img src ="img/Count_N&R.png" height="300" width="450">
+<img src ="img/pie.png" height="300" width="450">
 
 
