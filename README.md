@@ -1,6 +1,7 @@
 # Breast-Cancer-Prediction-Classifier
 
-Breast cancer is cancer that develops in breast cells. Typically, the cancer forms in either the lobules or the ducts of the breast. Lobules are the glands that produce milk, and ducts are the pathways that bring the milk from the glands to the nipple. Cancer can also occur in the fatty tissue or the fibrous connective tissue within your breast. The classifier model is based on Support Vector Machine and Random Forest Classifier Models.
+Breast cancer is cancer that develops in breast cells. Typically, the cancer forms in either the lobules or the ducts of the breast. Lobules are the glands that produce milk, and ducts are the pathways that bring the milk from the glands to the nipple. Cancer can also occur in the fatty tissue or the fibrous connective tissue within your breast. 
+I tried to implement using Support Vector Machine and later I got better accuracy with Random Forest Classifier.  
 
 # Description About Dataset
 
