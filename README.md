@@ -13,6 +13,6 @@ aspirate of a breast mass, and they describe characteristics of the cell nuclei 
 <img src ="img/Count_N&R.png" height="300" width="450">
 <img src ="img/pie.png" height="300" width="450">
 
-# Model Accuracy:- 87.777%
+# Model Accuracy:- 87.777% (Random Forest Classifier)
 
 
